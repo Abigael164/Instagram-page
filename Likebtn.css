@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-wrap: nowrap;
+}
+.container{
+    
+    background-color: rgba(0, 0, 0, 0.918);
+    color: rgb(248, 242, 242);
+    margin: 0;
+}
+img{
+    width: 300px;
+    height: 400px;
+}
+h1{
+    text-align: start;
+    font-style: oblique;
+}
+h2,img{
+    padding: 0px;
+    margin: 5px;
+    text-align: start;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+h2::before{
+    content: "";
+    display: inline-block;
+    flex-wrap: nowrap;
+    background-image: url(/ProfileF.jpeg);
+    background-position: center;
+    background-size: cover;
+    vertical-align: middle;
+    margin-right: 8px;
+    position: relative;
+    height: 28px;
+    width: 28px;
+    border-radius: 50%;
+    border: 3px solid rgb(238, 10, 170);
+    
+    
+}
+button{
+    background-color: rgb(22, 21, 21);
+    border: none;
+    font-size: 20px;
+}
