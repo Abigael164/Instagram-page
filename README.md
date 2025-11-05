@@ -21,7 +21,7 @@ It includes a *like button* that counts the number of likes each post receives.
 - *React.js* – for building the UI components  
 - *JavaScript (ES6+)* – for logic and interactivity  
 - *CSS3* – for styling and layout  
-- *Vite / Create React App* – for project setup (depending on what you used)
+- *Vite* – for project setup (depending on what you used)
 
 ---
 
