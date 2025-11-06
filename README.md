@@ -23,6 +23,6 @@ It includes a *like button* that counts the number of likes each post receives.
 - *CSS3* – for styling and layout  
 - *Vite* – for project setup (depending on what you used)
 
----
+
 
 
